@@ -1,0 +1,13 @@
+.whiteFillBlackStroke {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+
+#redCircle {
+    -fx-fill: red;
+}
+
+#greenCircle {
+    -fx-fill: green;
+}
