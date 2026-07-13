@@ -3,7 +3,7 @@ Made by: Samuel Sidzyik
 Module 8.2
 Start Date July 12, 2026
 
-Implementing CSS for JavaFX
+Threading a bunch of randomish data
 
 https://github.com/Zigget/csd-420/blob/main/module-8
 */
